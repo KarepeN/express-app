@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 app.get('/test', (req, res) => {
     res.send(' Hello world using test ')
   })
-app.get('/srivasavi', (req, res) => {
+app.get('/Nithya', (req, res) => {
     res.send(' Hey,This is Nithya Karepe ')
   })
   
